@@ -1,0 +1,58 @@
+# Arquivos e pastas do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert/
+*.nbconvert.ipynb
+
+# Configurações do JupyterLab
+.jupyter/
+.lab/
+.labconfig/
+.jupyterlab-metadata/
+
+# Arquivos de cache
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+
+# Arquivos de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dados temporários
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.hdf5
+*.feather
+
+# Arquivos gerados por matplotlib
+*.png
+*.pdf
+*.svg
+*.jpg
+*.jpeg
